@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789009499250,
+      "tag": "0000_giant_mikhail_rasputin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789009528196,
+      "tag": "0001_fuzzy_ravenous",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789053449853,
+      "tag": "0002_flaky_marvel_apes",
+      "breakpoints": true
+    }
+  ]
+}

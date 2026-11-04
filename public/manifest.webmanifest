@@ -1,0 +1,13 @@
+{
+  "name": "Spotter parking",
+  "short_name": "Spotter",
+  "description": "Find trusted parking or host your own space.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfcfa",
+  "theme_color": "#102b24",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
